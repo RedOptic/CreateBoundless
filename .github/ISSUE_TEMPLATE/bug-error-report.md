@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen if the bug/error wouldn't've not occur.
+A clear and concise description of what you expected to happen if the bug/error wouldn't've occurred.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
